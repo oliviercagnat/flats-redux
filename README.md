@@ -1,4 +1,4 @@
-# Redux - Flats 🚘
+# Redux - Flats 
 
 React app exercise making use of Redux, listing flats and indicating their address on a map.
 
@@ -6,7 +6,7 @@ Exercise from Le Wagon Coding Bootcamp.
 
 # Outlook of the app
 
-https://user-images.githubusercontent.com/75303846/167282684-672dc9f0-2c98-4246-bc5d-e50377474a4c.mp4
+https://user-images.githubusercontent.com/75303846/167283682-8ebb8a8e-e582-450a-a35a-55f8ede7620e.mp4
 
 ## Getting started
 
